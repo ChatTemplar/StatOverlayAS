@@ -1,6 +1,9 @@
 # Azeroth Survivors Stat Overlay
 
 Customizable In-game stat overlay for Azeroth Survivors.
+
+<img width="1328" height="928" alt="grafik" src="https://github.com/user-attachments/assets/955940d0-8336-461d-b54d-202aabb94a40" />
+
 ### Features
 
 - **Real-Time Stat Display** – Displays your character's combat stats in an on-screen overlay, updating as new stat data becomes available.
