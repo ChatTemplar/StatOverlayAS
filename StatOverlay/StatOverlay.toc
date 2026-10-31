@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Stat Overlay
+## Notes: Separate on-screen player stat display.
+## Version: 1.0
+## SavedVariables: StatOverlayDB
+
+StatOverlay.lua
